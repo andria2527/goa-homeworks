@@ -18,4 +18,3 @@ print(is_sunny > is_cloudy)
 secret_number = 7
 secret_number1 = 9
 print(secret_number == secret_number1)
-print("lol i know ur watching")
