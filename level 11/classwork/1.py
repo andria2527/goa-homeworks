@@ -24,3 +24,7 @@
 # while seat > 0:
 #     print(seat)
 #     seat -= 67
+
+count = 1
+while count < 10:
+  print(count)
